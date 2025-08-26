@@ -1,8 +1,10 @@
-<p align="center"><b>Hello, World!🌐 <br>Meu nome é Guilherme Malicki barbosa🌟</b> <br><br> Desenvolvedor Back End apaixonado por resolver problemas complexos por meio da tecnologia. Gosto de desafios e venho aprimorando minhas habilidades cada vez mais a partir de novos projetos e estudos. Possuo 22 anos e sou formado em Engenharia da Computação pela USF. Também, atuo a 4 anos como Analista de TI, sendo responsável por toda implantação de sistemas utilizados, suas melhores práticas e também desenho de novos processos.</p>
-
 <div  align="center" style="margin-bottom:100px">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=guimalicki&theme=radical&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
- </div>
+ <p align="center"><b>Hello, World!🌐 <br>Meu nome é Guilherme Malicki barbosa🌟</b> <br><br> Desenvolvedor Back End apaixonado por resolver problemas complexos por meio da tecnologia. Gosto de desafios e venho aprimorando minhas habilidades cada vez mais a partir de novos projetos e estudos. Possuo 22 anos e sou formado em Engenharia da Computação pela USF. Também, atuo a 4 anos como Analista de TI, sendo responsável por toda implantação de sistemas utilizados, suas melhores práticas e também desenho de novos processos.</p>
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=guimalicki)](https://git.io/streak-stats)
+</div>
  
 ## My Skills
 
